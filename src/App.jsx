@@ -2,7 +2,7 @@ import { useState } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home.jsx";
 import Work from "./pages/Work";
-import Footer from "./pages/Footer.jsx";
+import Footer from "./pages/footer.jsx";
 import Skill from "./pages/Skill";
 import About from "./pages/About";
 import Services from "./pages/Services.jsx";
